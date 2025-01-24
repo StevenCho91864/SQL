@@ -7,6 +7,7 @@ I’m also a music producer working toward building my dream business one day. �
 
 🤝 Connect with Me:
 <a href="https://www.linkedin.com/in/steven-cho028/"> <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Steven Cho | LinkedIn" width="21px"/> </a> </br> - 💬 If you have any questions or feedback, please don't hesitate to reach out to me!
+🤝 Connect with Me:
 🔭 Current Projects
 Developing my SQL portfolio to showcase data analysis skills
 Exploring new datasets for SQL-based insights
