@@ -2,10 +2,11 @@ Welcome to My SQL Portfolio!
 My name is Steven Cho, and this repository showcases examples of SQL I've written. Feel free to take a look and reach out if you have any questions or feedback.
 
 About Me
+
 🎓 I'm a Senior IT Student passionate about:
-Cloud Support
-Data Analytics
-Tech Sales
+- Data Analytics
+- Tech Sales
+- 
 🎶 I'm also a Music Producer, working toward building my dream business one day.
 I love creating projects, analyzing data, and continuously learning to sharpen my technical skills.
 🤝 Connect with Me
