@@ -40,7 +40,7 @@ My name is **Steven Cho**, and this repository showcases examples of SQL I've wr
 This portfolio includes examples of SQL queries that demonstrate my skills in:  
 
 - Extracting meaningful insights from datasets  
-- Summarizing data using aggregate functions like `SUM`, `AVG`, and `COUNT`  
+- Summarizing data 
 - Sorting and filtering data to answer real-world business questions  
 
 Feel free to dive into the repository and explore the code!
