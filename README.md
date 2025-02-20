@@ -35,7 +35,7 @@ My name is **Steven Cho**, and this repository showcases examples of SQL I've wr
 
 ---
 
-## About This Portfolio  
+## About This Portfolio
 
 This portfolio includes examples of SQL queries that demonstrate my skills in:  
 
