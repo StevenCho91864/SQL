@@ -1,7 +1,7 @@
 #This project utilizes the following Superstore data: 
 
 CREATE TABLE superstore (
-    item_id INTEGER PRIMARY KEY,
+    item_id INTEGER PRIMARY KEY
     item_name TEXT,
     category TEXT,
     price DECIMAL(10, 2),
